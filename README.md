@@ -82,9 +82,8 @@ We welcome contributions! Please follow our [contribution guidelines](CONTRIBUTI
 
 ## Team Members
 
-*   [Reuben Coutinho] - [Role/Responsibilities]
-*   [Rhea Sera Rodrigues] - [Role/Responsibilities]
-*   [Team Member 3] - [Role/Responsibilities] (if applicable)
+*   Reuben Coutinho
+*   Rhea Sera Rodrigues
 
 ## Acknowledgments
 
